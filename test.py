@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 
 descriptions = [
-    "Scratched leather, silver buckle, goes through denim loops.",
+    "airpods 3 with a black cover",
     "Jangly, metal, has a bottle opener keychain.",
     "Frayed cable, still works, white, for phone.",
     "Heavy, lifesaver, black, kinda bulky.",
