@@ -26,5 +26,6 @@ Instructions:
 
     json_response = completion.choices[0].message.content
     #print(json_response)
+
     return json_response
 

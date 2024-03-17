@@ -17,7 +17,7 @@ def fetch_all_documents(collection_name):
     docs_list = [{**doc.to_dict(), 'id': doc.id} for doc in docs]  # Convert documents to dictionaries
     json_data = json.dumps(docs_list, indent=2)  # Convert the list of dictionaries to a JSON string
     
-    print(json_data)
+
     return json_data
 
 # Example usage

@@ -74,4 +74,5 @@ async def send_data(query:str):
     
 
 def prettify(json_file):
-    pass
+    if json_file:
+        pass
